@@ -4,12 +4,12 @@ This sample demonstrates how to capture video and depth image with the ZED SDK i
 
 ## Getting started
 
-- First, download the latest version of the ZED SDK on [stereolabs.com](https://www.stereolabs.com).
-- For more information, read the ZED [API documentation](https://www.stereolabs.com/developers/documentation/API/latest/).
+- First, download the latest version of the ZED SDK on [stereolabs.com](https://www.stereolabs.com/developers)
+- For more information, read the ZED [Documentation](https://www.stereolabs.com/docs/) and [API documentation](https://www.stereolabs.com/docs/api/python/) or our [Community page](https://community.stereolabs.com)
 
 ### Prerequisites
 
-- Windows 7 64bits or later, Ubuntu 16.04
+- Windows 10, Ubuntu LTS, L4T
 - [ZED SDK](https://www.stereolabs.com/developers/) and its dependencies ([CUDA](https://developer.nvidia.com/cuda-downloads))
 
 ## Build the program
@@ -39,3 +39,6 @@ Open a terminal in the sample directory and execute the following command:
 - Or open a terminal in the build directory and run the sample :
 
       ./ZED\ openGL(.exe)
+
+## Support
+If you need assistance go to our Community site at https://community.stereolabs.com/

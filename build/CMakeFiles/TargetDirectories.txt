@@ -1,0 +1,3 @@
+/home/nvidia/dev-repo-jetson-orin-nx/zed-opengl/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/dev-repo-jetson-orin-nx/zed-opengl/build/CMakeFiles/edit_cache.dir
+/home/nvidia/dev-repo-jetson-orin-nx/zed-opengl/build/CMakeFiles/ZED_openGL.dir
